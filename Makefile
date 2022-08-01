@@ -1,2 +1,2 @@
 run:
-	cargo build && ./target/debug/rustlang
+	cargo run
